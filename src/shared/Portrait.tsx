@@ -10,6 +10,9 @@ export function Portrait() {
     ["/images/portraits/flow.png", "flow"],
     ["/images/portraits/mask1.jpg", "mask"],
     ["/images/portraits/res.jpg", "res"],
+    ["/images/portraits/ghost-1.png", "ghost"],
+    ["/images/portraits/ghost-2.png", "ghost"],
+    ["/images/portraits/ghost-3.png", "ghost"],
   ];
   const portraitIndex = Math.floor(Math.random() * portraits.length);
 
