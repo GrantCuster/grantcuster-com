@@ -90,7 +90,7 @@ export default function Page(props: any) {
               </div>
               <div className="col-span-4 md:col-span-2">
                 <div className="purple">Creative technologist</div>
-                <div className="blue">2023-Present</div>
+                <div className="blue">2023-2025</div>
               </div>
             </div>
           </div>
