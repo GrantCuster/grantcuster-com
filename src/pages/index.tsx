@@ -70,6 +70,33 @@ export default function Page(props: any) {
         <div className="w-full mt-8 uppercase px-4 orange">Work</div>
         <div className="flex flex-col gap-[2px]">
           <div className="bg-hard-black flex flex-col gap-y-4 py-4 px-4">
+            <div className="w-full">
+              <a
+                className="underline green"
+                target="_blank"
+                rel="noreferrer"
+                href="https://tabletop.grantcuster.com"
+              >
+                Tabletop
+              </a>
+            </div>
+            <div className="py-2">
+              <img
+                src="/images/tabletop.png"
+                alt="Collage of Tabletop multi-touch canvas experiments"
+              />
+            </div>
+            <div className="grid w-full grid-cols-4 gap-y-4 gap-x-8">
+              <div className="col-span-4 md:col-span-2">
+                Experimenting with large multi-touch canvas tools. Prototyping new interaction systems.
+              </div>
+              <div className="col-span-4 md:col-span-2">
+                <div className="purple">Creator</div>
+                <div className="blue">2026</div>
+              </div>
+            </div>
+          </div>
+          <div className="bg-hard-black flex flex-col gap-y-4 py-4 px-4">
             <div className="w-full ">
               <a
                 className=" underline green"
