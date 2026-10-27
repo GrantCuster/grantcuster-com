@@ -391,19 +391,6 @@ export default function Page(props: any) {
           </div>
 
           <div className="grid w-full grid-cols-4 gap-y-4 gap-x-8 bg-hard-black px-4 py-3">
-            <div className="col-span-1">
-              <a
-                className="underline green"
-                target="_blank"
-                href="https://scrawl.grantcuster.com"
-              >
-                Scrawl
-              </a>
-            </div>
-            <div className="col-span-3">Thoughts, quickly written</div>
-          </div>
-
-          <div className="grid w-full grid-cols-4 gap-y-4 gap-x-8 bg-hard-black px-4 py-3">
             <div className="col-span-1 uppercase gray">Social</div>
 
             <div className="col-span-2 md:col-span-1">
@@ -413,15 +400,6 @@ export default function Page(props: any) {
                 href="https://bsky.app/profile/grantcuster.com"
               >
                 Bluesky
-              </a>
-            </div>
-            <div className="col-span-2 col-start-2 md:col-start-0 md:col-span-1">
-              <a
-                className="underline aqua"
-                target="_blank"
-                href="https://mastodon.social/@grantcuster"
-              >
-                Mastodon
               </a>
             </div>
             <div className="col-span-2 col-start-2 md:col-start-0 md:col-span-1">
@@ -442,7 +420,7 @@ export default function Page(props: any) {
             Designer &amp; Engineer
           </div>
           <div className="col-span-2 md:col-span-1 orange">Index</div>
-          <div className="col-span-2 md:col-span-1 blue">2025</div>
+          <div className="col-span-2 md:col-span-1 blue">2026</div>
         </div>
       </div>
     </div>

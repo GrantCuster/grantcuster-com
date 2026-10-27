@@ -1,5 +1,5 @@
 import { j as jsxRuntime_reactServerExports } from "../assets/jsx-runtime.react-server-D_TucH4B.js";
-import { Portrait } from "../assets/rsc3-4b06e2ad8.js";
+import { Portrait } from "../assets/rsc3-a8e242ba0.js";
 import "../assets/react.react-server-DrDL52Ws.js";
 import "../assets/server.edge-7bA4OHDO.js";
 import "../assets/server.edge-BZB9kVGY.js";
@@ -64,11 +64,12 @@ function Page(props) {
             children: "Google Creative Lab"
           }
         ) }),
+        /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "py-2", children: /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("img", { src: "/images/creative-lab.png" }) }),
         /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "grid w-full grid-cols-4 gap-y-4 gap-x-8", children: [
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-4 md:col-span-2", children: "Prototyping interfaces for interacting with large language models. Going beyond chat. Focused on increasing our understanding and control." }),
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "col-span-4 md:col-span-2", children: [
             /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "purple", children: "Creative technologist" }),
-            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "blue", children: "2023-Present" })
+            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "blue", children: "2023-2025" })
           ] })
         ] })
       ] }),
@@ -86,7 +87,7 @@ function Page(props) {
         /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "grid w-full grid-cols-4 gap-y-4 gap-x-8", children: [
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-4 md:col-span-2", children: "Experimental web-based creative tools. Featuring image distorters, freeform text editors, and weird website builders. Targeted experiments in alternative interfaces." }),
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "col-span-4  md:col-span-2", children: [
-            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "purple", children: "Creator, designer and engineer" }),
+            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "purple", children: "Creator, designer & engineer" }),
             /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "blue", children: "Side project: 2019-Present" })
           ] })
         ] }),
@@ -221,7 +222,7 @@ function Page(props) {
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-4" }),
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-4 md:col-span-2", children: "A research lab. We built quarterly prototoypes exploring machine learning capabilities. I designed and built the front-end for experiments exploring capabilities like summarization, sentiment analysis, and prediction. I also led design for the branding and print reports." }),
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "col-span-4  md:col-span-2", children: [
-            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "purple", children: "Designer and engineer" }),
+            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "purple", children: "Designer & engineer" }),
             /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "blue", children: "2014-2021" })
           ] })
         ] }),
@@ -299,7 +300,7 @@ function Page(props) {
         /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "grid w-full grid-cols-4 gap-y-4 gap-x-8", children: [
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-4 md:col-span-2", children: "Worked on many early-stage prototypes and experiments, including Instapaper, Poncho, and Findings." }),
           /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "col-span-4  md:col-span-2", children: [
-            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "purple", children: "Designer and engineer" }),
+            /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "purple", children: "Designer & engineer" }),
             /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "blue", children: "2012-2014" })
           ] })
         ] })
@@ -320,18 +321,6 @@ function Page(props) {
         /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-3", children: "Work and inspiration in progress" })
       ] }),
       /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "grid w-full grid-cols-4 gap-y-4 gap-x-8 bg-hard-black px-4 py-3", children: [
-        /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-1", children: /* @__PURE__ */ jsxRuntime_reactServerExports.jsx(
-          "a",
-          {
-            className: "underline green",
-            target: "_blank",
-            href: "https://scrawl.grantcuster.com",
-            children: "Scrawl"
-          }
-        ) }),
-        /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-3", children: "Thoughts, quickly written" })
-      ] }),
-      /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "grid w-full grid-cols-4 gap-y-4 gap-x-8 bg-hard-black px-4 py-3", children: [
         /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-1 uppercase gray", children: "Social" }),
         /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-2 md:col-span-1", children: /* @__PURE__ */ jsxRuntime_reactServerExports.jsx(
           "a",
@@ -347,26 +336,17 @@ function Page(props) {
           {
             className: "underline aqua",
             target: "_blank",
-            href: "https://mastodon.social/@grantcuster",
-            children: "Mastodon"
-          }
-        ) }),
-        /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-2 col-start-2 md:col-start-0 md:col-span-1", children: /* @__PURE__ */ jsxRuntime_reactServerExports.jsx(
-          "a",
-          {
-            className: "underline aqua",
-            target: "_blank",
             href: "https://x.com/grantcuster",
             children: "Twitter/X"
           }
         ) })
       ] })
     ] }),
-    /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "grid w-full grid-cols-4 gap-y-4 gap-x-8 mt-8 px-4 mb-4", children: [
+    /* @__PURE__ */ jsxRuntime_reactServerExports.jsxs("div", { className: "grid w-full items-end grid-cols-4 gap-y-4 gap-x-8 mt-8 px-4 mb-4", children: [
       /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-2 md:col-span-1 yellow", children: "Grant Custer" }),
       /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-2  md:col-span-1 purple", children: "Designer & Engineer" }),
       /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-2 md:col-span-1 orange", children: "Index" }),
-      /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-2 md:col-span-1 blue", children: "2025" })
+      /* @__PURE__ */ jsxRuntime_reactServerExports.jsx("div", { className: "col-span-2 md:col-span-1 blue", children: "2026" })
     ] })
   ] }) });
 }
